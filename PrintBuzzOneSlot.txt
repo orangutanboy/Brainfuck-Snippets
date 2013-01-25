@@ -1,0 +1,3 @@
+This sets slot2 to 66, prints, increments to 117, prints, increments to 122, prints twice
+
+++++[>++[>++++++++<-]<-]>>++.<+++++++++++++++++[>+++<-]>.+++++..

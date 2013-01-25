@@ -1,4 +1,4 @@
-This script sets slot2 to 70 and prints char 70 ('F')
+This sets slot2 to 70 (7 * 2 * 5) and prints char 70 ('F')
 
 ** Without comments **
 +++++++[>++[>+++++<-]<-]>>.
